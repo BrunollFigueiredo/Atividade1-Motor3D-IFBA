@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Users\\Aluno\\Desktop\\Projetos Motor 2D - JO\\My project (9)\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5203C51-EA0B-A27F-D624-710F42B4D14D}|Assembly-CSharp.csproj|d:\\users\\aluno\\desktop\\projetos motor 2d - jo\\my project (9)\\assets\\movimenta\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5203C51-EA0B-A27F-D624-710F42B4D14D}|Assembly-CSharp.csproj|solutionrelative:assets\\movimenta\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "movimenta\u00E7\u00E3o.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Desktop\\Projetos Motor 2D - JO\\My project (9)\\Assets\\movimenta\u00E7\u00E3o.cs",
+              "RelativeDocumentMoniker": "Assets\\movimenta\u00E7\u00E3o.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Desktop\\Projetos Motor 2D - JO\\My project (9)\\Assets\\movimenta\u00E7\u00E3o.cs",
+              "RelativeToolTip": "Assets\\movimenta\u00E7\u00E3o.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T13:51:44.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
